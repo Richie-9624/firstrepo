@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-  cout << "My First Program in Repl.it \n";
+  cout << "My First program in Repl.it \n";
 }
